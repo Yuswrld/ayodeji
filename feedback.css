@@ -1,0 +1,74 @@
+*{
+    margin:0;
+    padding:0;
+    text-decoration: none;
+    list-style:none ;
+    box-sizing: border-box;
+}
+body{
+    font-family: montserrat;
+    background-color: brown
+}
+label.logo{
+    color:white;
+    font-size: 35px;
+    line-height: 80px;
+    font-weight: bold;
+    padding: 0 100px;
+}
+nav ul{
+    float: right;
+    margin-right: 20px;
+}
+nav ul li{
+     display: inline-block;
+     line-height: 80px;
+     margin: 0 5px;
+}
+nav{
+    background-color: rgb(114, 9, 9);
+    height: 80px;
+    width: 100%;
+}
+nav ul li a {
+    color: white;
+    font-size: 17px;
+    text-transform: uppercase;
+    padding: 7px 13px;
+    border-radius: 3px;
+}
+a,a:hover{
+    background-color: rgb(199, 114, 114);
+    transition: .5s;
+    
+}
+.checkbtn{
+    font-size: 30px;
+    color: white;
+    float: right;
+    line-height: 80px;
+    margin-right: 40px;
+    cursor: pointer;
+}
+b{
+    font-size: 20px;
+}
+header{
+    margin-left: 100px;
+    
+}
+input{
+    padding: 50px;
+    
+}
+.submit{
+    padding:2px ;
+}
+#checkbox{
+    width: 20px;
+    cursor: pointerdu   fcxvrfgfxcalbcf;
+}
+img{
+    width:70px;
+    border-radius: 50%;
+}
