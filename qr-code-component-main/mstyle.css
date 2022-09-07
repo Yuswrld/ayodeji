@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background: hsl(212, 45%, 89%);
+    height: 100vh;
+}
+section{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50, -50%);
+    background-color: #fff;
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 50PX;
+}
+h3{
+    color: hsl(218, 44%, 22%);
+    font: bolder;
+    padding-bottom: 10px;
+}
+u{
+    color: hsl(220, 15%, 55%);
+    text-decoration: none;
+    padding-bottom: 10px;
+}
+q{
+    background-size: contain;
+}

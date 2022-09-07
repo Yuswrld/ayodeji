@@ -1,0 +1,62 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color:  hsl(0, 0%, 95%);
+    color: #fff;
+}
+section{
+    position:absolute;
+    display: flex;
+    width: 70%;
+    margin: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+.sedan{
+    background-color: hsl(31, 77%, 52%);
+    padding-block: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+  
+}
+.suvs{
+    background-color:  rgb(0, 162, 255);
+    padding-block: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.luxury{
+    background-color:  hsl(179, 100%, 13%);
+    padding-block: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+p{
+    font-size: 16px;
+    width: 110%;
+    color:  hsla(0, 0%, 100%, 0.452);
+    padding-bottom: 70px;
+    padding-top: 30px;
+}
+button{
+    padding-block: 8px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+    border-color: transparent;
+    width: 80%;
+    color: gray;
+}
+b{
+    padding-bottom: 40px;
+}
+.but1{
+    margin-top: 100px;
+}
+.but2{
+    margin-top: 100px;
+}
