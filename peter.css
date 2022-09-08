@@ -56,14 +56,14 @@ padding:2px;
     
 }
 .image{
-    width: 17px;
+    width: 100%;
 }
 p{
     margin-top: 5%;
 }
 
 img{
-    width: 100%;
+    width: 50px;
     margin: 1%;
     border-radius: 50%;
 }
