@@ -23,26 +23,26 @@ label.logo{
 }
 nav ul{
     float: right;
-    margin-right: 10px;
+    
 }
 nav ul li{
      display: flex;
     justify-content:space-between;
      text-align: center;
-     line-height: 3px;
+     line-height: 5px;
      margin: 0px;
 }
 nav{
     background-color: #0082e6;
-    height: 130px;
+    height: 150px;
     width: 100%;
     display:grid;
 }
 nav ul li a {
     color: white;
-    font-size: 5px;
+    font-size: 10px;
     text-transform: uppercase;
-    padding: 3px 6px;
+    padding: 5px 8px;
     border-radius: 5px;
 }
 a,a:hover{
@@ -52,11 +52,11 @@ a,a:hover{
 }
 button:hover{
  background-color: darkblue;
-padding:2px;
+padding:4px;
     
 }
 .image{
-    width: 100%;
+    width: 20px;
 }
 p{
     margin-top: 5%;
