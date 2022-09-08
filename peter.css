@@ -8,10 +8,9 @@
 }
 body{
     font-family: montserrat;
-    background-color: rgb(95, 95, 177);
     background-image:url(back.jpg);
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     
     color: cornsilk;
 }
@@ -29,7 +28,7 @@ nav ul li{
      display: inline-block;
      text-align: center;
      line-height: 3px;
-     margin: 0 3px;
+     margin: 0px;
 }
 nav{
     background-color: #0082e6;
@@ -51,7 +50,8 @@ a,a:hover{
 }
 button:hover{
  background-color: darkblue;
-
+padding:2px;
+    width:5px;
 }
 .image{
     width: 17px;
