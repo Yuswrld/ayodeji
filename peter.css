@@ -15,7 +15,7 @@ body{
     color: cornsilk;
 }
 label.logo{
-    color:white;
+    color:red;
     font-size: 90px;
     line-height: 20px;
     font-weight: bold;
@@ -43,7 +43,7 @@ nav ul li a {
     border-radius: 10px;
 }
 a,a:hover{
-    background-color: violet;
+    background-color: green;
     transition: .5s;
     
 }
