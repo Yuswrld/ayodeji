@@ -1,3 +1,4 @@
+@media screen and (min-width:700px){
 *{
     margin:0;
     padding-top:0px;
@@ -70,8 +71,7 @@ main{
 header{
     margin: 5%;
 }
-di
-    
+
 }
 @media srceen and(max-width:500px)
 {
