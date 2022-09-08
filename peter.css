@@ -11,14 +11,14 @@ body{
     background-color: rgb(95, 95, 177);
     background-image:url(back.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     
     color: cornsilk;
 }
 label.logo{
     color:red;
-    font-size: 50px;
-    line-height: 10px;
+    font-size: 40px;
+    line-height: 7px;
     font-weight: bold;
 }
 nav ul{
@@ -33,14 +33,15 @@ nav ul li{
 }
 nav{
     background-color: #0082e6;
-    height: 80px;
+    height: 180px;
     width: 100%;
+    display:grid;
 }
 nav ul li a {
     color: white;
-    font-size: 7px;
+    font-size: 5px;
     text-transform: uppercase;
-    padding: 4px 8px;
+    padding: 3px 6px;
     border-radius: 5px;
 }
 a,a:hover{
@@ -53,7 +54,7 @@ button:hover{
 
 }
 .image{
-    width: 15px;
+    width: 17px;
 }
 p{
     margin-top: 5%;
